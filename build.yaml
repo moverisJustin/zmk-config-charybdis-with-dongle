@@ -18,13 +18,13 @@
 #
 ---
 include:
-  - board: prospector
+  - board: seeeduino_xiao_ble
     shield: charybdis_dongle prospector_adapter
   - board: nice_nano_v2
     shield: charybdis_left
   - board: nice_nano_v2
     shield: charybdis_right
-  - board: prospector
+  - board: seeeduino_xiao_ble
     shield: settings_reset prospector_adapter
   - board: nice_nano_v2
     shield: settings_reset

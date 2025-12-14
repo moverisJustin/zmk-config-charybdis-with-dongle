@@ -35,11 +35,4 @@
 
 &trackball {
     status = "okay";
-    input-listener = <&vtrackball>;
-};
-
-/ {
-	vtrackball: virtual_input_trackball {
-		compatible = "zmk,virtual-input";
-	};
 };

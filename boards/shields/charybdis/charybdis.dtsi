@@ -35,4 +35,9 @@
     kscan0: kscan {
         diode-direction = "row2col";
     };
+
+    trackball_split: trackball_split {
+        compatible = "zmk,input-split";
+        status = "disabled";
+    };
 };

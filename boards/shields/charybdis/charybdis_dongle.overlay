@@ -16,3 +16,7 @@
 		compatible = "zmk,virtual-input";
 	};
 };
+
+&trackball_split {
+	status = "okay";
+};

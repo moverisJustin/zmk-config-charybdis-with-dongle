@@ -35,6 +35,7 @@
 
 &trackball {
     status = "okay";
+    input-listener = <&vtrackball>;
 };
 
 / {
